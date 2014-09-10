@@ -1,0 +1,6 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+${symbol_pound}Thu Jun 16 10:18:26 CEST 2011
+eclipse.preferences.version=1
+filesCopiedToWebInfLib=

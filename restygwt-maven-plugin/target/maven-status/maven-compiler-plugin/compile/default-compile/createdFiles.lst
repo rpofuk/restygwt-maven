@@ -1,0 +1,8 @@
+hr\sampo\mojo\HelpMojo.class
+hr\sampo\mojo\GenerateRestyAsync.class
+hr\sampo\mojo\generator\interfaces\ClientGenerator.class
+hr\sampo\mojo\AbstractGwtMojo.class
+hr\sampo\mojo\classpath\RestyClasspathBuilder.class
+hr\sampo\mojo\generator\SimpleJAXRSGenerator.class
+hr\sampo\mojo\generator\interfaces\GenerationContext.class
+hr\sampo\mojo\classpath\ClasspathBuilderException.class

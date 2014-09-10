@@ -1,0 +1,2 @@
+# Module __module__
+# RPC service class, partial path of RPC policy file

@@ -1,0 +1,18 @@
+<component-set>
+  <components>
+    <component>
+      <role>hr.sampo.mojo.generator.interfaces.ClientGenerator</role>
+      <role-hint>default</role-hint>
+      <implementation>hr.sampo.mojo.generator.SimpleJAXRSGenerator</implementation>
+      <description>Util to consolidate classpath manipulation stuff in one place.</description>
+      <isolated-realm>false</isolated-realm>
+    </component>
+    <component>
+      <role>hr.sampo.mojo.classpath.RestyClasspathBuilder</role>
+      <role-hint>default</role-hint>
+      <implementation>hr.sampo.mojo.classpath.RestyClasspathBuilder</implementation>
+      <description>Util to consolidate classpath manipulation stuff in one place.</description>
+      <isolated-realm>false</isolated-realm>
+    </component>
+  </components>
+</component-set>
