@@ -1,4 +1,4 @@
-restygwt-maven-plugin
+restygwt-maven
 =====================
 
 RestyGWT maven plugin and archetype
